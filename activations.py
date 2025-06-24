@@ -1,4 +1,5 @@
 import numpy as np
+from losses import *
 
 class Activation_ReLU:
 
