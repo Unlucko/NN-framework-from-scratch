@@ -1,7 +1,7 @@
 import numpy as np
 from nnfs.datasets import spiral_data, sine_data
 import nnfs
-from tqdm import tqdm
+from __init__ import *
 
 nnfs.init()
 
