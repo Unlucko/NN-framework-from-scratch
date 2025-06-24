@@ -1,0 +1,13 @@
+[project]
+name = "nnfss"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "nnfs==0.5.1",
+    "numpy>=2.3.0",
+    "pyqt5>=5.15.11",
+    "tqdm>=4.67.1",
+]
